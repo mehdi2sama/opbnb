@@ -11,7 +11,7 @@ module.exports = {
     es6: true,
     ecmaVersion: 6,
     sourceType: 'module',
-    requireConfigFile: false,
+    requireConfigFile: true,
   },
   plugins: [
     'eslint-plugin-import',
